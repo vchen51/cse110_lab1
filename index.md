@@ -19,19 +19,24 @@ While you're here, check this out
 
 #### Some of my favorite images and GIFs I have
 * This cute bear drawing with a stick
+
 ![](https://i.imgur.com/pGq3PXw.gif)
 * This dog that got stung by a bee
-![](https://i.imgur.com/pFDMar8.jpg =150x)
+
+![](https://i.imgur.com/pFDMar8.jpg)
 * This infinite cat loop
-![](https://i.imgur.com/ioDChkU.gif =150x)
+
+![](https://i.imgur.com/ioDChkU.gif)
 * This other infinite cat loop
-![](https://i.imgur.com/3qy2MCZ.gif =150x)
+
+![](https://i.imgur.com/3qy2MCZ.gif)
+
 
 #### If I had to rank these photos,
-1. ![](https://i.imgur.com/ioDChkU.gif =150x)
-2. ![](https://i.imgur.com/pFDMar8.jpg =150x)
-3. ![](https://i.imgur.com/3qy2MCZ.gif =150x)
-4. ![](https://i.imgur.com/pGq3PXw.gif =150x)
+1. ![](https://i.imgur.com/ioDChkU.gif)
+2. ![](https://i.imgur.com/pFDMar8.jpg)
+3. ![](https://i.imgur.com/3qy2MCZ.gif)
+4. ![](https://i.imgur.com/pGq3PXw.gif)
 
 ## Things I need to do
 - [x] CSE 110 Lab 1
