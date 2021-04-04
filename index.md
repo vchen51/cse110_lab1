@@ -15,7 +15,7 @@ I like looking at code with white spaces but find it a hassle to actually write 
 
 Here is a [video](https://www.youtube.com/watch?v=a_IA-8nQ4FY) I really enjoy watching
 
-While you're here, check this out
+While you're here, check [this other Markdown file](https://github.com/vchen51/cse110_lab1/blob/vsbranch/relativefile.md) out
 
 #### Some of my favorite images and GIFs I have
 * This cute bear drawing with a stick
