@@ -19,7 +19,7 @@ While you're here, check this out
 
 #### Some of my favorite images and GIFs I have
 * This cute bear drawing with a stick
-![](https://i.imgur.com/pGq3PXw.gif =150x)
+![](https://i.imgur.com/pGq3PXw.gif)
 * This dog that got stung by a bee
 ![](https://i.imgur.com/pFDMar8.jpg =150x)
 * This infinite cat loop
