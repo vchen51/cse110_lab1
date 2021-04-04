@@ -1,1 +1,2 @@
-# Hi, this is a relative link :)
+# Hi!
+Hope this is a relative link :)
